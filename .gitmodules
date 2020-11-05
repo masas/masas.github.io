@@ -1,0 +1,3 @@
+[submodule "shadow-cljs.github.io"]
+	path = shadow-cljs.github.io
+	url = https://masas@github.com/masas/shadow-cljs.github.io
